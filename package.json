@@ -1,0 +1,16 @@
+{
+  "name": "dark-mode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sakol Assawasagool <koobitor@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "use-dark-mode": "^2.3.1"
+  }
+}
